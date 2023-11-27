@@ -1,0 +1,15 @@
+/Users/dustyshort/tutorials/Suduku_Solver/bin/Debug/net6.0/Suduku_Solver
+/Users/dustyshort/tutorials/Suduku_Solver/bin/Debug/net6.0/Suduku_Solver.deps.json
+/Users/dustyshort/tutorials/Suduku_Solver/bin/Debug/net6.0/Suduku_Solver.runtimeconfig.json
+/Users/dustyshort/tutorials/Suduku_Solver/bin/Debug/net6.0/Suduku_Solver.dll
+/Users/dustyshort/tutorials/Suduku_Solver/bin/Debug/net6.0/ref/Suduku_Solver.dll
+/Users/dustyshort/tutorials/Suduku_Solver/bin/Debug/net6.0/Suduku_Solver.pdb
+/Users/dustyshort/tutorials/Suduku_Solver/obj/Debug/net6.0/Suduku_Solver.csproj.AssemblyReference.cache
+/Users/dustyshort/tutorials/Suduku_Solver/obj/Debug/net6.0/Suduku_Solver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dustyshort/tutorials/Suduku_Solver/obj/Debug/net6.0/Suduku_Solver.AssemblyInfoInputs.cache
+/Users/dustyshort/tutorials/Suduku_Solver/obj/Debug/net6.0/Suduku_Solver.AssemblyInfo.cs
+/Users/dustyshort/tutorials/Suduku_Solver/obj/Debug/net6.0/Suduku_Solver.csproj.CoreCompileInputs.cache
+/Users/dustyshort/tutorials/Suduku_Solver/obj/Debug/net6.0/Suduku_Solver.dll
+/Users/dustyshort/tutorials/Suduku_Solver/obj/Debug/net6.0/ref/Suduku_Solver.dll
+/Users/dustyshort/tutorials/Suduku_Solver/obj/Debug/net6.0/Suduku_Solver.pdb
+/Users/dustyshort/tutorials/Suduku_Solver/obj/Debug/net6.0/Suduku_Solver.genruntimeconfig.cache
